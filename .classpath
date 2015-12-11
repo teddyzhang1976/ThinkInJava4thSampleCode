@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="polymorphism/|holding/|flow/|exceptions/|concurrency/|typeinfo/|innerclasses/|arrays/|interfaces/|reusing/|initialization/|cloning/|io/|containers/|generics/|xml/|hiding/|io/xfiles/|passing/|gui/|annotations/|enumerated/|discovering/|object/|strings/|swt/" kind="src" path=""/>
+	<classpathentry kind="src" path="annotations"/>
+	<classpathentry kind="src" path="arrays"/>
+	<classpathentry kind="src" path="cloning"/>
+	<classpathentry kind="src" path="concurrency"/>
+	<classpathentry kind="src" path="containers"/>
+	<classpathentry kind="src" path="discovering"/>
+	<classpathentry kind="src" path="enumerated"/>
+	<classpathentry kind="src" path="exceptions"/>
+	<classpathentry kind="src" path="flow"/>
+	<classpathentry kind="src" path="generics"/>
+	<classpathentry kind="src" path="gui"/>
+	<classpathentry kind="src" path="hiding"/>
+	<classpathentry kind="src" path="holding"/>
+	<classpathentry kind="src" path="initialization"/>
+	<classpathentry kind="src" path="innerclasses"/>
+	<classpathentry kind="src" path="interfaces"/>
+	<classpathentry excluding="xfiles/" kind="src" path="io"/>
+	<classpathentry kind="src" path="io/xfiles"/>
+	<classpathentry kind="src" path="object"/>
+	<classpathentry kind="src" path="passing"/>
+	<classpathentry kind="src" path="polymorphism"/>
+	<classpathentry kind="src" path="reusing"/>
+	<classpathentry kind="src" path="strings"/>
+	<classpathentry kind="src" path="swt"/>
+	<classpathentry kind="src" path="typeinfo"/>
+	<classpathentry kind="src" path="xml"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.5.0_01"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
